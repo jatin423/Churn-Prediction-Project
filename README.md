@@ -75,7 +75,7 @@ This project predicts customer churn using machine learning. It includes data ex
 
 ## Contact
 
-Created by Abhishek Suyal feel free to connect on GitHub!
+Created by Jatin Patra feel free to connect on GitHub!
 
 ---
 
