@@ -1,0 +1,25 @@
+Business Questions for Churn Project
+A. Overall Churn Insights
+1. What is the overall churn rate?
+2. How many customers have churned vs stayed?
+3. What is the churn trend over the months?
+4. How much revenue loss is due to churn?
+
+B. Customer Profile & Demographics
+1. Churn rate by gender.
+2. Churn rate by Senior Citizen status.
+3. Churn rate by geographic location (if available).
+
+C. Services & Products
+1. Which services (Internet, Phone, Streaming) have the highest churn?
+2. Churn by contract type (month-to-month, yearly).
+3. Churn by payment method (credit card, bank transfer, etc.).
+4. Churn by tenure (short-term vs long-term customers).
+
+D. Billing & Charges
+1. Does monthly charge amount affect churn?
+
+2. Churn rate by total charges.
+
+3. Do customers with extra add-ons churn more?
+
