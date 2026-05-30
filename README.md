@@ -50,7 +50,7 @@ This project predicts customer churn using machine learning. It includes data ex
 
 1. Clone this repository:
    ```bash
-  git clone https://github.com/suyalabhishek123/customer-churn-prediction.git
+  git clone https://github.com/jatin423/Churn-Prediction-Project/tree/main
    ```
 
 2. Open and run notebooks in `notebook/` folder.
